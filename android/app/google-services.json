@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285434888696",
+    "project_id": "reactnativeapp-bed6f",
+    "storage_bucket": "reactnativeapp-bed6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285434888696:android:9f224a3265784534ea960d",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBGch5A2j2B0YVFYvMrlCIEY7jL-6XR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285434888696:android:502338620338ef35ea960d",
+        "android_client_info": {
+          "package_name": "com.reactnativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBGch5A2j2B0YVFYvMrlCIEY7jL-6XR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
